@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zh4ngyj
-- 👀 I’m interested in java/system-rchitect/k8s/ai/go
-- 🌱 I’m currently learning system-rchitect/k8s/c/go
+- 👀 I’m interested in system-rchitect/ai
+- 🌱 I’m currently do my own project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zh4ngyj@gmail.com
 - 😄 Pronouns: ...
