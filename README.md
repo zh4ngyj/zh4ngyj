@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zh4ngyj
-- 👀 I’m interested in system-rchitect/ai
+- 👀 I’m interested in ai and system-rchitect
 - 🌱 I’m currently do my own project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zh4ngyj@gmail.com
